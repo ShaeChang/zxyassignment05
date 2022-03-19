@@ -11,5 +11,5 @@ The repository includes this README file, providing the basic information of the
 ## Replicating Instructions
 Download our .Rmd file, the /data folder to a folder X. You should also download a .csv file from https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2, save the file also in the /data folder. Create a new .Rproj from the folder X. Knit the .Rmd file and the work should be replicated.
 
-# Fail to Knit
+# !!Fail to Knit
 We failed to knit but every chunk works. Just run them separately, and all pics and results will show.
