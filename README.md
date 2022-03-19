@@ -9,4 +9,4 @@ This is a project for the 5th assignment of a graduate course, Georgetown Univer
 The repository includes this README file, providing the basic information of the project; a .gitignore file, to ignore the data and Census API credentials; a .Rmd file, which is our initial code; a .html file, which is the ourput of knitting from our .Rmd file.
 
 ## Replicating Instructions
-Download the .Rmd file, 
+Download our .Rmd file, the /data folder to a folder X. Create a new .Rproj from the folder X. Knit the .Rmd file and the work should be replicated.
