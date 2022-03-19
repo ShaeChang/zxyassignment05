@@ -1,6 +1,6 @@
 # zxyassignment05
-author: Xiyu Zhang
-03/18/2022
+author: Xiyu Zhang, Jinli Wu
+date: 03/18/2022
 
 ## Objective
 This is a project for the 5th assignment of a graduate course, Georgetown University: Intro to Data Science taught by Aaron R. Williams. The purpose of the assignment is to practice APIs and Geospatial Analysis.
